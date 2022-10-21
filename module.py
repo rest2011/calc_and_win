@@ -52,7 +52,7 @@ def run_game():
     yes_no = {
         'Y': True,
         'N': False,
-         # Новые значения словаря.
+        # Новые значения словаря.
         'y': True,
         'n': False,
     }
