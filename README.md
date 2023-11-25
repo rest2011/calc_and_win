@@ -21,10 +21,6 @@ source venv/Scripts/activate
 ```
 deactivate
 ```
-Устанавливаем зависимости
-```
-pip install -r requirements.txt
-```
 Запускаем осноной модуль
 ```
 python main.py
